@@ -138,7 +138,7 @@ This structure improves:
 
 Swagger interface preview:
 
-![Swagger UI](docs/swagger.png)
+![Swagger UI](./docs/swagger.png)
 
 ## Author
 
