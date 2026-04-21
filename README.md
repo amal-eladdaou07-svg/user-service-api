@@ -134,6 +134,12 @@ This structure improves:
 
 ---
 
+## API Documentation
+
+Swagger interface preview:
+
+![Swagger UI](docs/swagger.png)
+
 ## Author
 
 Amal EL ADDAOU
